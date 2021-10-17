@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishita2602" alt="dishita2602" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV, Computer Vision, Deep Learning**
+- 🌱 **Ready to collaborate for repository ownership**
 
 - 📫 How to reach me **dishitaneve@gmail.com**
 
 - 📄 Check out my portfolio [https://sites.google.com/view/dishita-neve-profile/home](https://sites.google.com/view/dishita-neve-profile/home)
 
-- ⚡ Fun fact **I am a Overthinker !!**
+- ⚡ Fun fact **I am an Overthinker !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
